@@ -1,8 +1,8 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
+Student name: Alexandre Lévesque
+Student number: 300061231
+Course code: ITI1151
 Assignment: Asg01
-Course section: 02
-Java: 1.8
+Course section: Z00
+Java: 14.0.1
 ```
